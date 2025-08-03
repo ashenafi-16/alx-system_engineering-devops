@@ -1,2 +1,3 @@
 #!/bin/bash
-echo hello ashenafi 
+echo "hello $(whoami)"
+
